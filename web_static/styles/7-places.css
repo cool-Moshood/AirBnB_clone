@@ -9,9 +9,7 @@
 
 .places > h1 {
     font-size: 30px;
-    padding-left: 20px;
-    padding-top: 20px;
-    margin-bottom: 0px;
+    text-align: left;
     flex: 0 1 100%;
 }
 .places > article {
@@ -26,4 +24,5 @@
 
 .places > article > h2 {
     font-size: 30px;
+    text-align: center;
 }
